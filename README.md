@@ -86,6 +86,6 @@ Full Email Regex: `/^([a-z0-9_\ .-]+)@([\da-z\ .-]+)\ .([a-z\ .]{2,6})$/`
 This readme was created by Slava Tyson Trotz. 
 
 GitHub of Magos Slava
-https://github.com/Widewanderer/Work-day-Scheduler
+https://github.com/Widewanderer/
 
 
